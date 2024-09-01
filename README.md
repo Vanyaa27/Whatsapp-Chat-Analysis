@@ -1,2 +1,4 @@
 # Whatsapp-Chat-Analysis
 WhatsApp Chat Analysis is an NLP project that generates insights and visualizations of chat data, including activity patterns, heatmaps, and the most frequent words and emojis.
+
+This NLP project that provides comprehensive insights into WhatsApp conversations. The project analyzes chat data to generate detailed statistics, including monthly, weekly, and daily trends, as well as time-based patterns. It visualizes user activity through heatmaps and highlights the most frequently used words and emojis, offering an in-depth look at communication habits. This analysis is ideal for understanding group dynamics, identifying key discussion topics, and exploring language use patterns. With powerful visualizations and analytics, this tool serves both personal and professional users
